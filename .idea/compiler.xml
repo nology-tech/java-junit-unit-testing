@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="junit-java-boilerplate" />
+        <module name="teasdf" />
       </profile>
     </annotationProcessing>
   </component>
